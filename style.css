@@ -1,0 +1,35 @@
+body {
+    background-color:palegreen
+}
+thead {
+    color: black;
+    background-color:dodgerblue;
+    padding: 80px;
+    text-align: center;
+}
+
+tr {
+    text-align: left;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+button1 {
+    background-color: blue;
+}
+
+button {
+    background-color: red;
+}
+button3 {
+    background-color: green;
+
+}
+div {
+    background-color:lightblue;
+    border: 1px solid black;
+    width: 300px;
+}
+
